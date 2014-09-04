@@ -54,3 +54,11 @@ API complexity
 
 * if there are N errors in the query results, how well does the algorithm do on the above metrics given X% of the N errors?
 * We discussed cross validation, and discarded it.
+
+
+# Misc
+
+
+* ALexandra mentioned a crazy integration workflow
+* Dealing with multiple tables and multiple data item types (cell, record, column, table, etc?)
+* Eugene talkid about a slider that everyone liked
